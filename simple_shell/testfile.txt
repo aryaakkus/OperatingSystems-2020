@@ -1,0 +1,11 @@
+help
+set x 10 
+print x
+set y 100
+print y
+set y arya akkus
+print y
+set x Montreal Canadians
+print x
+run testfile.txt
+quit
